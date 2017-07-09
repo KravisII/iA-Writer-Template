@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+# Mac Finder
+.DS_Store
+/.idea/
